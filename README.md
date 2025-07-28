@@ -18,7 +18,8 @@ local text2 = GUI.Frame.Info
 
 # Whats the point?
 
-This is my take on the whole make a GUI appear when a person enters an area ordeal. It's simple, though not complete. Theres some bugs to fix but not huge, just minor details.
+These scripts allow any player in the Roblox Game Engine to enter an area, and have an animated GUI appear on there screen whenever they enter said area. This uses a lot of roblox's custom methods
+and services instead of a simple while loop. Hence why it's more efficient.
 
 
 
